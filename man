@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+name = "Tim"
+age = "71"
+
+print (f"\nThere once was a man named {name},")
+print (f"{name} was {age} years old." )
+print (f"He Liked his name, {name}, but he didn't like")
+print (f"The age {age}.\n")
