@@ -1,0 +1,10 @@
+#!/usr/bin/python3
+
+
+phrase = "Giraffe Academy"
+print (phrase)
+print (phrase.lower())
+print (f"The {phrase.lower()} course")
+print (phrase.replace ("Giraffe", "Elephant"))
+print (len(phras))
+print (phrase[4])

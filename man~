@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-name = "James"
-age = "62"
+name = "Tim"
+age = "71"
 
 print (f"\nThere once was a man named {name},")
 print (f"{name} was {age} years old." )
